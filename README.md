@@ -1,6 +1,6 @@
 Please create a local database and called it local-sa-test
 
-Run the MigrationScript in the root folder against the db.
+Run the SeedScript in the root folder against the db.
 
 Please adjust your connectionstring if needed.
 

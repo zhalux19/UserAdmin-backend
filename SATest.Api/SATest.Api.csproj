@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SATest.Application\SATest.Application.csproj" />
+    <ProjectReference Include="..\SATest.Infrastructure\SATest.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>
